@@ -18,7 +18,7 @@ If you get error messages referring to six, dateutils and tz, then try installin
 <pre>
 [influxdb]
     class_name = InfluxDB
-    class_path = plugins.influx
+    class_path = plugins.influxdb
 #   influx_host = localhost
 #   influx_port = 8083
 #   influx_user = root
